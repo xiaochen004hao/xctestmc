@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2672a4f0-59d1-44f3-b868-dfc4ebb9f360" name="更改" comment="初始化">
+    <list default="true" id="2672a4f0-59d1-44f3-b868-dfc4ebb9f360" name="更改" comment="更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xctestmc/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xctestmc/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747449963838</updated>
-      <workItem from="1747449964974" duration="2824000" />
+      <workItem from="1747449964974" duration="3614000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -136,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747451974145</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="更新">
+      <option name="closed" value="true" />
+      <created>1747453192464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747453192464</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
 </project>
